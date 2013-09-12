@@ -240,11 +240,7 @@ Open and edit self.title lines for DenzelIMDBDetailViewController.m
     self.masterPopoverController = popoverController;
     }
         
-12) Add Icon
-
-    Watch Podcast
-
-    http://somup.com/cIQln5VQS
+12) Add Icon: Watch Podcast - http://somup.com/cIQln5VQS
     
     
 13 Test APP!
